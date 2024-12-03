@@ -1,1 +1,1 @@
-# Projeto_Algoritmo_K-meansns
+# Projeto_Algoritmo_K-means
